@@ -1,0 +1,5 @@
+x=int(input())
+y=int(input())
+x=x.replace(y)
+y=y.replce(x)
+print(x,y)

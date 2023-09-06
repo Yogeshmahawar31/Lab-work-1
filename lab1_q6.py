@@ -1,0 +1,6 @@
+a=int(input("enter the value of a in first variable"))
+b=int(input("enter the value of b in first variable"))
+c=int(input("enter the value of c in first variable"))
+x= (-b+(b)**2-(4*a*c)**0.5)/(2*a)
+y= (-b-(b)**2-(4*a*c)**0.5)/(2*a)
+print(x,y)
